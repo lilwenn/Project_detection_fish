@@ -1,1 +1,12 @@
 .idea/
+center_video/
+cluster_DBSCAN/
+clusters_KMEANS/
+detection/
+fps/
+group_center/
+heatmaps/
+isolation_fish/
+json/
+speed/
+tracking/
