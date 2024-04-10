@@ -4,6 +4,7 @@ cluster_DBSCAN/
 clusters_KMEANS/
 detection/
 fps/
+excel/
 group_center/
 heatmaps/
 isolation_fish/
